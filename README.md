@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A website that offers businesses with accessible resources for search engine optimization.
+An accessible website that offers businesses multiple strategies for search engine optimization.
 
 ## Built With
 * HTML
