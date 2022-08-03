@@ -54,16 +54,6 @@ header ul li {
 /* hero style end */
 
 /* content section style start */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
@@ -78,8 +68,16 @@ header ul li {
     background-color: #0072bb;
 }
 
-.content img {
+.float-left {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
+}   
+
+.float-right {
+    max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
 .content h2 {
